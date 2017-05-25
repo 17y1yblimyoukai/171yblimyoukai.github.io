@@ -6,7 +6,7 @@ vl<!DOCTYPE html>
     <link> rel="stylesheet" href ="style.css" <link/>
        <title> My personal portfolio <title/>
       <h1> welcome to Lim You Kai's home on the internet!</h1>
-      <img src=/>
+      <img src=/>171yblimyoukai.github.io/LIM YOU KAI (1).jpg
       <h2> about </h2>
       <p> Hi my name is you kai and I am from <a href="http://dunmanhigh.moe.edu.sg">Dunman High</a> singapore </p>
       <h2> more about me </h2>
