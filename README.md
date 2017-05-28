@@ -11,7 +11,7 @@
 <p>These are the things I love the most </p> 
 <li>Play</li>
 <a href="epl.html"> Drama</a
- 
+</body>
  
 <a href ="index.html"> go back homepage  </a>
 
