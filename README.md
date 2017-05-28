@@ -2,8 +2,7 @@
 <html>
 <body>
 <h1> Drama</h1>
-<title>
- This is one of my interest </title>
+<title>This is one of my interest </title>
 <p>
  </p>
 <a href ="www.dhs.sg"> Dunman High School  </a>
